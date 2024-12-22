@@ -1,0 +1,10 @@
+body{
+    background-image: url('img\ resource/bgtechnical.jpg');
+    
+    background-color: white;
+    display: grid;
+place-items: center;
+}
+table{
+    background-color: bisque;
+}
